@@ -1,0 +1,23 @@
+{
+  "name": "lateralapi-article",
+  "version": "1.0.0",
+  "description": "to extract lateralapi articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "sachin",
+  "license": "ISC",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "link-check": "^4.4.7",
+    "mustache": "^4.0.1",
+    "url": "^0.11.0",
+    "yargs": "^15.3.1"
+  }
+}
