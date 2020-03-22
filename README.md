@@ -28,3 +28,8 @@ I used the [blogdown](https://github.com/rstudio/blogdown) package in R initiall
 ## Other codes
 
 There is a lot of R code here that I have not used. It was intially to experiment if I could use the JSONs to create a YAML in R using blogdown::new_post() but in vain as I found that the BODY of content cannot be generated.
+
+## Credits
+
+I extend my gratitude to the R community from RStudio and various teachers who have taught me at University. Special thanks to Nate for the course on [LinkedIn Learning](https://www.linkedin.com/learning/learning-static-site-building-with-hugo-2/build-a-static-site-with-hugo)
+
